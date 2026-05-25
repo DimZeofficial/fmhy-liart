@@ -1,8 +1,8 @@
-# FMHY
+# FNMY
 
-![FMHY Banner](https://github.com/user-attachments/assets/0d43950d-a56f-437f-b9f6-afaed2313370)
+![FMHY Banner](https://github.com/user-attachments/assets/3fd00b75-4947-45e5-bab9-95d2a70ff730)
 
-<p align="center"> <b> The largest collection of free stuff on the internet! </b> </p>
+<p align="center"> <b> The largest collection of free nigga porn on the internet! </b> </p>
 
 ## 📖 Wiki
 
