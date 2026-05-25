@@ -4,7 +4,7 @@ layout: home
 description: The largest collection of free stuff on the internet!
 
 hero:
-  name: freemediaheckyeah
+  name: fuckniggamediayeah
   tagline: The largest collection of free stuff on the internet!
   announcement:
     title: Keep Android Open 🔓
