@@ -7,7 +7,7 @@
 ## 📖 Wiki
 
 - Website: [fnmy.net](https://fmhy-liart.vercel.app)
-- News & Monthly Updates: [fnmy.net/posts]([https://fmhy.net/posts](https://fmhy-liart.vercel.app))
+- News & Monthly Updates: [fnmy.net/posts](https://fmhy-liart.vercel.app)
 - Backups, Markdown, JSON API: [github.com/fnmy/FNMY/wiki/Backups](https://github.com/fmhy/FMHY/wiki/Backups)
 - Neither the site nor GitHub host any files
 
