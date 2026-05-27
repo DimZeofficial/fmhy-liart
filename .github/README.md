@@ -1,14 +1,14 @@
 # FNMY
 
-![FMHY Banner](https://github.com/user-attachments/assets/3fd00b75-4947-45e5-bab9-95d2a70ff730)
+![FMHY Banner](https://github.com/user-attachments/assets/0d43950d-a56f-437f-b9f6-afaed2313370)
 
-<p align="center"> <b> The largest collection of free nigga porn on the internet! </b> </p>
+<p align="center"> <b> The largest collection of free stuff on the internet! </b> </p>
 
 ## 📖 Wiki
 
-- Website: [fnmy.net](https://fmhy-liart.vercel.app)
-- News & Monthly Updates: [fnmy.net/posts](https://fmhy-liart.vercel.app)
-- Backups, Markdown, JSON API: [github.com/fnmy/FNMY/wiki/Backups](https://github.com/fmhy/FMHY/wiki/Backups)
+- Website: [fmhy.net](https://fmhy-liart.vercel.app)
+- News & Monthly Updates: [fmhy.net/posts](https://fmhy-liart.vercel.app)
+- Backups, Markdown, JSON API: [github.com/fmhy/FMHY/wiki/Backups](https://github.com/fmhy/FMHY/wiki/Backups)
 - Neither the site nor GitHub host any files
 
 ## 🗺️ Emoji Legend
