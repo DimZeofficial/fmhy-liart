@@ -1,5 +1,5 @@
 <script lang="ts">
-import { ref, h } from 'vue'
+import { h, ref } from 'vue'
 
 const RESULTS_PAGE_SIZE = 16
 const MAX_RESULTS_IN_MEMORY = 200
@@ -303,11 +303,7 @@ const recentSearches = useLocalStorage<string[]>(
 const shouldResetScroll = ref(false)
 
 const autoSuggestions = computed(() => {
-  if (
-    !filterText.value ||
-    results.value.length > 0 ||
-    !searchIndex.value
-  )
+  if (!filterText.value || results.value.length > 0 || !searchIndex.value)
     return []
 
   const query = filterText.value.trim()
@@ -1542,7 +1538,10 @@ function isSamePageComparison(destPath: string) {
       .replace(/\/index$/, '')
       .replace(/\/$/, '')
       .toLowerCase()
-    if (base !== '/' && cleaned.startsWith(base.toLowerCase().replace(/\/$/, ''))) {
+    if (
+      base !== '/' &&
+      cleaned.startsWith(base.toLowerCase().replace(/\/$/, ''))
+    ) {
       cleaned = cleaned.slice(base.toLowerCase().replace(/\/$/, '').length)
     }
     return cleaned || '/'

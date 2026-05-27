@@ -5,7 +5,7 @@ description: The largest collection of free stuff on the internet!
 
 hero:
   name: fuckniggamediayeah
-  tagline: The largest collection of free stuff on the internet!
+  tagline: The largest collection of free nigga porn on the internet!
   announcement:
     title: Keep Android Open 🔓
     link: /posts/KeepAndroidOpen

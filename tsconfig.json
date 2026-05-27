@@ -3,7 +3,7 @@
     "verbatimModuleSyntax": true,
     "module": "esnext",
     "target": "esnext",
-    "lib": ["DOM", "ESNext"],
+    "lib": ["ESNext", "DOM", "DOM.Iterable"],
     "strict": true,
     "jsx": "preserve",
     "esModuleInterop": true,
@@ -13,7 +13,7 @@
     "noUnusedLocals": true,
     "strictNullChecks": true,
     "forceConsistentCasingInFileNames": true,
-    "types": ["vitepress"]
+    "types": ["vitepress", "node"]
   },
   "exclude": ["node_modules"],
   "include": [

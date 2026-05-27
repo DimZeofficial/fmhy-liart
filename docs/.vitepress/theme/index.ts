@@ -1,17 +1,17 @@
 /**
- *  Copyright (c) 2025 taskylizard. Apache License 2.0.
+ * Copyright (c) 2025 taskylizard. Apache License 2.0.
  *
- *  Licensed under the Apache License, Version 2.0 (the "License");
- *  you may not use this file except in compliance with the License.
- *  You may obtain a copy of the License at
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
  *
- *  http://www.apache.org/licenses/LICENSE-2.0
+ * http://www.apache.org/licenses/LICENSE-2.0
  *
- *  Unless required by applicable law or agreed to in writing, software
- *  distributed under the License is distributed on an "AS IS" BASIS,
- *  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- *  See the License for the specific language governing permissions and
- *  limitations under the License.
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
  */
 
 import type { Theme } from 'vitepress'
@@ -22,6 +22,7 @@ import Post from './PostLayout.vue'
 import { useThemeHandler } from './themes/themeHandler'
 
 import './style.scss'
+import './mobile-native.css' // <-- Added: Custom mobile responsive stylesheet overrides
 import 'virtual:uno.css'
 
 import FloatingVue from 'floating-vue'
@@ -35,6 +36,8 @@ import LinkInline from './components/LinkInline.vue'
 import Tag from './components/Tag.vue'
 import Tooltip from './components/Tooltip.vue'
 import VideoFrame from './components/VideoFrame.vue'
+// <-- Added: Import our mobile touch gesture and Android hardware button helpers
+import { initAndroidBackButton, initMobileGestures } from './mobileAppHelper'
 
 export default {
   extends: DefaultTheme,
@@ -52,6 +55,10 @@ export default {
     loadProgress(router)
 
     if (typeof window !== 'undefined') {
+      // <-- Added: Fire mobile gesture mechanics and hardware back button listeners on mobile environments
+      initAndroidBackButton()
+      initMobileGestures()
+
       const originalBefore = router.onBeforeRouteChange
       const originalAfter = router.onAfterRouteChanged
 

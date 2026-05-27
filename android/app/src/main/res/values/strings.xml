@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FNMY</string>
+    <string name="title_activity_main">FNMY</string>
+    <string name="package_name">com.dimzeofficial.fnmy</string>
+    <string name="custom_url_scheme">com.dimzeofficial.fnmy</string>
+</resources>
