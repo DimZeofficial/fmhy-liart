@@ -1,0 +1,27 @@
+body {
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+  overscroll-behavior: none; /* Stops ugly browser bounce stretches */
+}
+
+code,
+pre,
+input,
+textarea {
+  -webkit-user-select: text !important;
+  user-select: text !important;
+}
+
+/* Hide web scrollbars completely for clean app frame layout */
+::-webkit-scrollbar {
+  display: none !important;
+  width: 0 !important;
+  height: 0 !important;
+}
+
+a,
+button,
+[role='button'] {
+  touch-action: manipulation; /* Erases mobile double-tap link click delay */
+}
