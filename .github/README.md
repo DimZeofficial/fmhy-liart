@@ -36,5 +36,5 @@ Here are a few ways you can get involved:
 </p>
 # IMPORTANT!
 
-This repository is not affiliated with nbats or any official FMHY (FreeMediaHeckYeah) entities. This project is
-purely vibe-coded.
+**This repository is not affiliated with nbats or any official FMHY (FreeMediaHeckYeah) entities. This project is
+purely vibe-coded.**
