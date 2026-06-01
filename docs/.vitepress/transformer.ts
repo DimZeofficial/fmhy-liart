@@ -34,6 +34,8 @@ export function transformsPlugin(): Plugin {
         !id.includes('other')
       ) {
         const header = getHeader(_id)
+        if (!header) return code
+
         const contents = transform(code)
 
         if (_id === 'beginners-guide.md') {

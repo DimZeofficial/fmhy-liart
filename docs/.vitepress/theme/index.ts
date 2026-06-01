@@ -16,6 +16,9 @@
 
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
+import { h } from 'vue'
+import FavoritesEngine from './components/FavoritesEngine.vue'
+import FavoritesList from './components/FavoritesList.vue'
 import { loadProgress } from './composables/nprogress'
 import Layout from './Layout.vue'
 import Post from './PostLayout.vue'
@@ -41,9 +44,12 @@ import { initAndroidBackButton, initMobileGestures } from './mobileAppHelper'
 
 export default {
   extends: DefaultTheme,
-  Layout,
+  Layout, // 👈 Restored to a direct component so data contexts are preserved perfectly
+
   enhanceApp({ router, app }) {
     app.use(FloatingVue)
+    app.component('FavoritesEngine', FavoritesEngine)
+    app.component('FavoritesList', FavoritesList)
     app.component('GradientCard', GradientCard)
     app.component('VideoFrame', VideoFrame)
     app.component('LinkCard', LinkCard)

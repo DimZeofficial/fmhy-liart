@@ -68,7 +68,7 @@ export default defineConfig({
       'meta',
       { name: 'apple-mobile-web-app-status-bar-style', content: 'default' }
     ],
-    // Bing site verification
+    // Alignment settings
     [
       'meta',
       {
@@ -76,7 +76,6 @@ export default defineConfig({
         content: 'F3028112EF6F929B562F4B18E58E3691'
       }
     ],
-    // Google site verification
     [
       'meta',
       {
@@ -84,7 +83,6 @@ export default defineConfig({
         content: 'XCq-ZTw6VJPQ7gVNEOl8u0JRqfadK7WcsJ0H598Wv9E'
       }
     ],
-    // Redirect to main site if embedded in iframe
     [
       'script',
       {},
@@ -96,8 +94,6 @@ export default defineConfig({
         })();
         `
     ],
-    // Apply the saved theme synchronously before the page paints, so users
-    // who picked a non-default theme don't briefly see the default one.
     [
       'script',
       {},
@@ -204,8 +200,11 @@ export default defineConfig({
       }),
       VitePWA({
         registerType: 'autoUpdate',
+        injectRegister: 'inline',
         workbox: {
-          globPatterns: ['**/*.{js,css,html,ico,png,svg,woff2}'],
+          globPatterns: ['**/*.{js,css,html,ico,png,svg,woff2,txt,json}'],
+          cleanupOutdatedCaches: true,
+          navigateFallback: '404.html',
           runtimeCaching: [
             {
               urlPattern: /^https:\/\/fonts\.googleapis\.com\/.*/i,
@@ -214,10 +213,24 @@ export default defineConfig({
                 cacheName: 'google-fonts-cache',
                 expiration: {
                   maxEntries: 10,
-                  maxAgeSeconds: 60 * 60 * 24 * 365 // 365 days
+                  maxAgeSeconds: 60 * 60 * 24 * 365
                 },
                 cacheableResponse: {
                   statuses: [0, 200]
+                }
+              }
+            },
+            {
+              // Smart strategy for page contents: Load fresh over network, fall back to offline cache instantly if network fails
+              urlPattern: ({ request }) =>
+                request.destination === 'document' ||
+                request.destination === 'script',
+              handler: 'NetworkFirst',
+              options: {
+                cacheName: 'offline-page-cache',
+                expiration: {
+                  maxEntries: 50,
+                  maxAgeSeconds: 60 * 60 * 24 * 30 // 30 days
                 }
               }
             }
@@ -225,7 +238,7 @@ export default defineConfig({
         },
         manifest: {
           name: 'FMHY - freemediaheckyeah',
-          short_name: 'FMHY',
+          short_name: 'FNMY',
           description: 'The largest collection of free stuff on the internet!',
           theme_color: '#000000ff',
           background_color: '#000000ff',
@@ -274,7 +287,6 @@ export default defineConfig({
       }
     ],
     build: {
-      // Shut the fuck up
       chunkSizeWarningLimit: Number.POSITIVE_INFINITY
     }
   },

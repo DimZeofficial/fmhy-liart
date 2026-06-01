@@ -6,7 +6,9 @@ const config: CapacitorConfig = {
   webDir: 'docs/.vitepress/dist',
   bundledWebRuntime: false,
   server: {
-    androidScheme: 'https'
+    androidScheme: 'https',
+    url: 'https://fmhy-liart.vercel.app',
+    cleartext: true
   },
   android: {
     // Enable debugging so you can inspect your layout while testing

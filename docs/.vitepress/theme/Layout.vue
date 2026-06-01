@@ -7,7 +7,8 @@ import Base64Dialog from './components/Base64Dialog.vue'
 import Sidebar from './components/SidebarCard.vue'
 import { useTheme } from './themes/themeHandler'
 
-const { isDark } = useData()
+// Destructured frontmatter and page to use for the build guards
+const { isDark, frontmatter, page } = useData()
 const { setMode } = useTheme()
 
 const enableTransitions = () =>
@@ -135,7 +136,11 @@ onUnmounted(() => {
 <template>
   <Layout>
     <template #sidebar-nav-after>
-      <Sidebar />
+      <Sidebar
+        v-if="
+          frontmatter.sidebar !== false && page.relativePath !== 'favorites.md'
+        "
+      />
     </template>
     <template #home-hero-info-before>
       <Announcement />
@@ -153,6 +158,9 @@ onUnmounted(() => {
     :url="formattedUrl"
     @close="showBase64Dialog = false"
   />
+  <ClientOnly>
+    <FavoritesEngine />
+  </ClientOnly>
 </template>
 
 <style>

@@ -148,6 +148,9 @@ export const excluded = [
 ]
 
 export function getHeader(id: string) {
+  const data = headers[id]
+  if (!data) return
+
   const title =
     '<div class="space-y-2 not-prose"><h1 class="text-4xl font-extrabold tracking-tight text-primary underline lg:text-5xl lg:leading-[3.5rem]">'
 
@@ -155,7 +158,6 @@ export function getHeader(id: string) {
 
   const feedback = meta.build.api ? '<Feedback />' : ''
 
-  const data = headers[id]
   let header = '---\n'
   header += `title: "${data.title}"\n`
   header += `description: ${data.description}\n`

@@ -8,12 +8,14 @@ export default tseslint.config(
   // Global ignores (including script files and type declarations)
   {
     ignores: [
+      'android/**',
       '**/dist/**',
       '**/.output/**',
       '**/.temp/**',
       '**/.vitepress/dist/**',
       '**/.vitepress/cache/**',
-	  'scripts/broken-file.js',
+      '**/.cache/**',
+      'scripts/broken-file.js',
       'node_modules/**',
       '**/scripts/**',
       '**/*.d.ts'
@@ -37,15 +39,15 @@ export default tseslint.config(
         sourceType: 'module'
       },
       globals: {
-		  window: 'readonly',
-		document: 'readonly',
-		navigator: 'readonly',
-		setTimeout: 'readonly',
-		clearTimeout: 'readonly',
-		atob: 'readonly',
-		btoa: 'readonly',
-		requestAnimationFrame: 'readonly',
-		URL: 'readonly'
+        window: 'readonly',
+        document: 'readonly',
+        navigator: 'readonly',
+        setTimeout: 'readonly',
+        clearTimeout: 'readonly',
+        atob: 'readonly',
+        btoa: 'readonly',
+        requestAnimationFrame: 'readonly',
+        URL: 'readonly',
         ...globals.browser,
         ...globals.node,
         ...globals.es2021
