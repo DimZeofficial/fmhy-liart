@@ -241,8 +241,7 @@ export const search: DefaultTheme.Config['search'] = {
       options: {
         tokenize: (text: string) =>
           text
-            // eslint-disable-next-line no-misleading-character-class
-            .replace(/[\u2060\u200B\u200C\u200D\uFEFF]/g, '')
+            .replace(/\u2060|\u200B|\u200C|\u200D|\uFEFF/g, '')
             .split(/[\n\r #%*,=/:;?[\]{}()&]+/u),
         processTerm: (term: string, fieldName?: string): any => {
           // biome-ignore lint/style/noParameterAssign: h

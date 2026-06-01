@@ -123,7 +123,9 @@ function generateRemovedSites() {
         continue
       }
 
-      if (isIgnored(currentFile)) continue
+      if (isIgnored(currentFile)) {
+        continue
+      }
 
       if (line.startsWith('@@ ')) {
         const match = line.match(/^@@ -(\d+)(?:,\d+)? \+(\d+)(?:,\d+)? @@/)
