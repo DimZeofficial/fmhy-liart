@@ -1,4 +1,4 @@
-# FNMY
+# FMHY
 
 ![FMHY Banner](https://github.com/user-attachments/assets/0d43950d-a56f-437f-b9f6-afaed2313370)
 
@@ -34,3 +34,6 @@ Here are a few ways you can get involved:
 <p>
   <a href="https://github.com/fmhy/FMHY/wiki/FMHY-Discord"><img width="30px" src="./assets/discord.svg" alt="Discord"></a>&nbsp;&nbsp;<a href="https://github.com/fmhy"><img width="30px" src="./assets/github.svg" alt="GitHub"></a>
 </p>
+# [!IMPORTANT]
+This repository is not affiliated with nbats or any official FMHY (FreeMediaHeckYeah) entities. This project is
+purely vibe-coded.
