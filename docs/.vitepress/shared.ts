@@ -251,10 +251,6 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
       {
         text: '<span class="i-twemoji:package"></span> Storage',
         link: '/storage'
-      },
-      {
-        text: '<span class="i-twemoji:bug"></span> Report Bug',
-        link: '/report'
       }
     ]
   }
