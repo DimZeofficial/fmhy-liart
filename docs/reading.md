@@ -342,7 +342,6 @@
 * [HotAudioBooks](https://hotaudiobooks.com/)
 * [BookAudiobook](https://bookaudiobook.net/)
 * [CozyAudiobooks](https://cozyaudiobooks.com/category/) / Some NSFW
-* [GalaxyAudiobooks](https://galaxyaudiobook.com/) / [Downloader](https://github.com/nazdridoy/audiobooksnatcher)
 * [Audiozaic](https://audiozaic.com/)
 * [Audio AZ](https://audioaz.com/)
 * [r/audiobooksonyoutube](https://reddit.com/r/audiobooksonyoutube)
@@ -356,7 +355,7 @@
 
 * ↪️ **[Audiobook Generators / TTS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_text_to_speech)**
 * [AudioBookConverter](https://github.com/yermak/AudioBookConverter) - Audiobook Format Converter
-* [Audible Tools](https://audible-tools.kamsker.at/), [AaxAudioConverter](https://github.com/audiamus/AaxAudioConverter) or [Libation](https://getlibation.com/) - Audible DRM Remover / Manager
+* [Audible Tools](https://audible-tools.kamsker.at/), [AaxAudioConverter](https://github.com/audiamus/AaxAudioConverter) or [Libation](https://getlibation.com/) / [Mobile](https://github.com/Promises/LibriSync) - Audible DRM Remover / Manager
 * [AudiobookShelf](https://www.audiobookshelf.org/) / [Multi-Platform Client](https://github.com/Vito0912/abs_flutter) / [Mobile](https://github.com/advplyr/audiobookshelf-app), [2](https://github.com/GrakovNe/lissen-android/) or [BookSonic](https://booksonic.org/) - Self-Hosted Audiobook Servers
 
 ***
@@ -420,7 +419,7 @@
 * ⭐ **[MangaNato](https://www.manganato.gg/)**, [2](https://www.nelomanga.net/), [3](https://www.mangakakalot.gg), [4](https://www.natomanga.com/) / [Discord](https://discord.gg/Qhz84GGvE9)
 * ⭐ **[Nyaa Manga / LNs](https://nyaa.si/?f=0&c=3_0&q=)** - Torrents
 * [MangaKatana](https://mangakatana.com/)
-* [MangaBuddy](https://mangabuddy.com), [MangaForest](https://mangaforest.me/) or [MangaMirror](https://mangamirror.com/)
+* [MangaK](https://mangak.io/)
 * [MangaBall](https://mangaball.net/)
 * [Mangapill](https://mangapill.com/) / [Github](https://github.com/real-zephex/MangaThingy) (proxy)
 * [⁠MangaTaro](https://mangataro.org/) / [Discord](https://discord.gg/FKd8XVneCw)
@@ -500,7 +499,7 @@
 * [Online Books Page](https://onlinebooks.library.upenn.edu/)
 * [The Literature Network](https://www.online-literature.com/)
 * [Memory of the World](https://www.memoryoftheworld.org/)
-* [Springer](https://link.springer.com/search?showAll=false&query=&facet-content-type=%22Book%22) / [Directory](https://docs.google.com/spreadsheets/d/e/2PACX-1vRlPsb-aWnPaHz42aMO10YRB7Yy6n4uSzJuo7VDl8-ZjAZuuAwuAk3KA8RYO6QYK1CkaktlPHVXuJUj/pubhtml)
+* [Springer](https://link.springer.com/search?showAll=false&query=&facet-content-type=%22Book%22)
 * [Taleem360](https://www.taleem360.com/)
 * [LibreTexts](https://commons.libretexts.org), [2](https://libretexts.org/platforms/libraries/), [3](https://libretexts.org/)
 * [PDFBooksWorld](https://www.pdfbooksworld.com/)
@@ -513,7 +512,7 @@
 * [VDOC.PUB](https://vdoc.pub/)
 * [Sciarium](https://sciarium.com/)
 * [OpenED](https://open.bccampus.ca/)
-* [De Gruyter Brill](https://www.degruyterbrill.com/?submittedFilterId=by-type&access_4=open&pageSize=10&sort=datedescending&type_5=book), [2](https://www.degruyterbrill.com/page/2045)
+* [De Gruyter Brill](https://www.degruyterbrill.com/?submittedFilterId=by-type&access_4=open&pageSize=10&sort=datedescending&type_5=book)
 * [Learn Anything / Books](https://github.com/learn-anything/books)
 * [Tradepub](https://knowfree.tradepub.com/)
 * [eBookRoom](https://t.me/eBookRoom)
@@ -674,8 +673,7 @@
 * [BulletPapers](https://www.bulletpapers.ai/) - Paper Summaries
 * [Springer](https://link.springer.com/) - Research Papers / Publications
 * [ScienceDirect](https://www.sciencedirect.com/) - Research Papers
-* [BASE](https://www.base-search.net/) - Academic Papers Search Engine
-* [Neliti](https://www.neliti.com/) - Academic Papers Search Engine 
+* [Neliti](https://www.neliti.com/) - Academic Papers Search Engine
 * [Share OSF](https://share.osf.io/) - Academic Papers Search Engine
 * [Scinapse](https://scinapse.io/) - Academic Papers Search Engine / [Pro Script](https://rentry.co/scinapsebypass)
 * [Semantic Scholar](https://www.semanticscholar.org/) - Academic Papers Search Engine
@@ -694,6 +692,7 @@
 * [Springer](https://www.springer.com/) - Research Papers
 * [Biomed Central](https://www.biomedcentral.com/) - Research Papers
 * [Zenodo](https://zenodo.org/) - Research Papers
+* [OA.mg](https://oa.mg/) - Research Papers
 * [re3data](https://www.re3data.org/) - Research Data
 * [Retraction Watch](https://retractionwatch.com/) - Retracted Research Papers
 * [Ai2 Asta](https://asta.allen.ai/) - AI Scientific Paper Search 
@@ -803,7 +802,7 @@
 ## ▷ Declassified / Leaked Documents
 
 * 🌐 **[Epstein Research Resources](https://redd.it/1rc3gaz)** - Epstein Research Sites / Tools / Viewer Discretion Advised / Contains Censored NSFW Images
-* ⭐ **[Epstein Exposed](https://www.epsteinexposed.com/)** / [GitHub](https://github.com/stonesalltheway1/Epstein-Pipeline), **[JMail](https://jmail.world/)** / [Wiki](https://jmail.world/wiki), [Epstein Secrets](https://epsteinsecrets.com/), [ExposingEpstein](https://exposingepstein.com/), [Epstein Library](https://www.justice.gov/epstein), [Epstein Visualizer](https://epsteinvisualizer.com/) or [⁠Epstein Index](https://officialepsteinfiles.org/) - Declassified Epstein Files / Viewer Discretion Advised / Contains Censored NSFW Images
+* ⭐ **[Epstein Exposed](https://www.epsteinexposed.com/)** / [GitHub](https://github.com/stonesalltheway1/Epstein-Pipeline), **[JMail](https://jmail.world/)** / [Wiki](https://jmail.world/wiki), [Epstein Secrets](https://epsteinsecrets.com/), [ExposingEpstein](https://exposingepstein.com/), [Epstein Library](https://www.justice.gov/epstein) or [Epstein Visualizer](https://epsteinvisualizer.com/) - Declassified Epstein Files / Viewer Discretion Advised / Contains Censored NSFW Images
 * [WikiLeaks](https://wikileaks.org/) - Leaked Documents / [Index](https://file.wikileaks.org/)
 * [The Uncensored Library](https://www.uncensoredlibrary.com/en) - Uncensored / Declassified Documents
 * [FBI Vault](https://vault.fbi.gov/) - Declassified Documents
@@ -939,7 +938,6 @@
 * [⁠r/TrueLit Top 100 Lists](https://www.reddit.com/r/TrueLit/wiki/top100lists) - Book Recommendations
 * [Readow](https://readow.ai/) - Book Recommendations
 * [Shepherd](https://shepherd.com/) - Book Recommendations
-* [Newvella](https://newvella.com/) - Book Discovery / Recommendations
 * [GoodBooks](https://www.goodbooks.io/) - Book Discovery / Reviews
 * [Literature-Map](https://www.literature-map.com/) - Author Discovery by Genre
 * [Break the Bubble!](https://abooklike.foo/escape) - Challenge Narrow Tastes

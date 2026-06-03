@@ -519,7 +519,7 @@
 * [WorldwideTelescope](https://worldwidetelescope.org/) - Interactive Telescope Data / [Home Page](https://worldwidetelescope.org/home/) / [GitHub](https://github.com/WorldWideTelescope)
 * [ESA Hubble](https://esahubble.org/), [SpaceTelescopeLive](https://spacetelescopelive.org/) or [HubbleSite](https://hubblesite.org/) - Hubble Telescope Images
 * [James Webb Space Telescope](https://science.nasa.gov/mission/webb/) or [ESAWebb](https://esawebb.org/) - Webb Space Telescope Sites
-* [Webb Compare](https://www.webbcompare.com/) - Webb / Hubble Images
+* [Webb Compare](https://www.webbcompare.com/) - Webb / Hubble Images / [GitHub](https://github.com/JohnEdChristensen/WebbCompare/tree/gh-pages)
 * [APOD](https://apod.nasa.gov/) - Daily NASA Astronomy Images
 * [r/SpacePorn](https://www.reddit.com/r/spaceporn/) or [r/Astrophotography](https://www.reddit.com/r/astrophotography/) - Astrophotography Subreddits
 * [Meteor Showers](https://www.meteorshowers.org/) - 3D Meteor Shower Visualization
@@ -693,6 +693,7 @@
 * [Statista](https://www.statista.com/) - Market Statistics
 * [BLS](https://www.bls.gov/) - U.S. Bureau of Labor Statistics
 * [OpenSecrets](https://www.opensecrets.org/) - Government Money Tracking
+* [⁠Is AI Profitable Yet?](https://isaiprofitable.com/) - Track Total Amount Spent / Revenue of AI Companies
 * [WorldPoverty](https://worldpoverty.io/) - World Poverty Data
 * [Expatistan](https://www.expatistan.com/) - Cost of Living Calculator
 * [Cost of Living](https://www.numbeo.com/cost-of-living/) - Cost of Living Map
@@ -703,6 +704,7 @@
 * [Unequal Scenes](https://unequalscenes.com/) - Scenes of Inequality Around the World
 * [Dollar Street](https://www.gapminder.org/dollar-street) - Compare Homes by Country / Income
 * [Netblocks](https://netblocks.org/cost/) - Find Impact of Internet Shutdown on Economy
+* [⁠Is AI Profitable Yet?](https://isaiprofitable.com/) - Track Total Amount Spent / Revenue of AI Companies
 
 ***
 
@@ -936,7 +938,7 @@
 * [Waltheri's Go Pattern Search](http://ps.waltheri.net/) – Pro Game Pattern Search Engine
 * [GoProblems](https://goproblems.com/) – Tactical Puzzle Database
 * [GoKibitz](https://gokibitz.com/) – Game Reviews and Community Feedback
-* [Baduk.club] https://baduk.club/map/) - Map of Go clubs and Players
+* [Baduk.club](https://baduk.club/map/) - Map of Go clubs and Players
 * [KGS Go Server](https://www.gokgs.com/) – Classic server / Teaching Community
 * [Igowin](https://smart-games.com/igowin.html) – 9x9 Desktop Go AI for Beginners
 
@@ -966,6 +968,7 @@
 * [⁠Rebrickable](https://rebrickable.com/) - LEGO Collection Manager / Build Ideas
 * [⁠Mecabricks Workshop](https://www.mecabricks.com/en/workshop) or [BrickLink Studio](https://www.bricklink.com/v3/studio/download.page) - Virtual LEGO Building
 * [Brickset](https://brickset.com/), [⁠BrickEconomy](https://www.brickeconomy.com/) or [Bricklink](https://www.bricklink.com/) - LEGO Set Database / Reviews / Marketplaces
+* [⁠Brick Hound](https://brickhound.com/) - LEGO Deal Alerts 
 * [Brickognize](https://brickognize.com/) - LEGO Brick / Minifigure Identification Tool
 
 ***
@@ -1601,7 +1604,7 @@
 * ⭐ **[PirateHive](https://phantomcodex9.github.io/piratehive/)** - Guides / Study Material
 * ⭐ **[ExamSide](https://questions.examside.com/)** - PYQ Solutions / [Practice Environment](https://examcbt.thevolecitor.qzz.io/)
 * [JEE Hub](https://jeehub.vercel.app/) - JEE / NEET PYQs
-* [JEE Books](https://t.me/+iHmGydsEO343ODk1) or [JEEBooksPDF](https://m.youtube.com/c/JEEBooksPDF) / [Telegram](https://telegram.me/jeebookspdf) - JEE Books Archives
+* [JEE Books](https://t.me/+iHmGydsEO343ODk1) - JEE Books Archives
 * [Genetry](https://genetry.carrd.co/) or [Lec.Branch](https://t.me/addlist/pgaJblpaVWIwYjFl) - JEE Lectures
 * [YouTube Lengths](https://redd.it/1614jn5), [Fastlane Lengths](https://redd.it/17d1qt3) or [Normal Lane Lengths](https://redd.it/183er1y) - Lecture Lengths / Data
 * [MarksAPP](https://web.getmarks.app/) - Guides / Study Material / [Telegram](https://telegram.me/getmarksapp)
@@ -1716,7 +1719,7 @@
 * [MatrixCalc](https://matrixcalc.org/en/) - Matrix Calculator
 * [Qalculate](https://qalculate.github.io/) - Desktop Calculator
 * [QwikTape](https://github.com/4silvertooth/QwikTape) - Note Style Calculator
-* [Kalker](https://kalker.xyz/) or [Numbat](https://numbat.dev/) - Scientific Calculators
+* [Kalker](https://kalker.xyz/), [⁠SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/index.html) or [Numbat](https://numbat.dev/) - Scientific Calculators
 * [TICalc](https://www.ticalc.org/pub/) - TI Graphing Calculator Files
 * [arTIfiCE](https://yvantt.github.io/arTIfiCE/) - TI CE Calculator Jailbreak
 * [⁠Numla](https://numla.app/) / [GitHub](https://github.com/davidesantangelo/numla) or [Math Notepad](https://mathnotepad.com/) - Live Calculative Notepads

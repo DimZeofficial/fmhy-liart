@@ -20,13 +20,13 @@
 * ⭐ **[UnionCrax](https://union-crax.xyz/)** - Download / Torrent / Pre-Installed / [Launcher](https://union-crax.xyz/direct)
 * ⭐ **[GOG Games](https://gog-games.to/)** - Download / Torrent / GOG Games Only / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
 * ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / PW: `online-fix.me` / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/onlinefix) / [Discord](https://discord.gg/yExgFYncMD)
-* ⭐ **[GameBounty](https://gamebounty.world/)** - Download / Pre-installed / Achievments / [Discord](https://discord.gg/dmjUJ4xCEV)
+* ⭐ **[GameBounty](https://gamebounty.world/)** - Download / Pre-installed / Achievements / [Discord](https://discord.gg/dmjUJ4xCEV)
 * ⭐ **[SteamUnderground](https://steamunderground.net/)** - Download / Pre-Installed / [Discord](https://discord.gg/hxdv7eJ5Yt)
 * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / PW: `www.ovagames.com` / [Requires Redirect Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_redirect_bypass)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Download / Forum / Requires Sign-Up
 * ⭐ **[Virgil Game Search](https://virgil.samidy.com/Games/)**, [2](https://virgil-search.pages.dev/Games/) / [GitHub](https://github.com/SamidyFR/Virgil), **[⁠HizSearch](https://hizsearch.pages.dev/)**, [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg), [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx) or [r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
 * [g4u](https://g4u.to/) - Download / PW: `404`
-* [Rexa Games](https://rexagames.com/) - Download / Pre-Installed / Use Adblock / [Discord](https://discord.gg/6KWStFYSTj)
+* [Rexa Games](https://rexagames.com/) - Download / Pre-Installed / Multiplayer / Use Adblock / [Discord](https://discord.gg/6KWStFYSTj)
 * [GLoad](https://gload.to/) - Download / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [scene cat](https://rentry.co/FMHYB64#scene-cat) - Download / [Discord](https://discord.gg/wXdNEhf73x)
 * [appnetica](https://appnetica.com/) - Torrent / Pre-Installed / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/appnetica_info)
@@ -87,7 +87,7 @@
 * [vgperson](https://vgperson.com/games/) - Simple Japanese Games
 * [Visual Pinball](https://github.com/vpinball/vpinball) - Pinball Table Editor / Simulator / [Tables](https://www.vpforums.org/)
 * [DoujinStyle](https://doujinstyle.com) - Doujin Games / [Discord](https://discord.com/invite/z2QDFdA)
-* [MoriyaShrine](https://moriyashrine.org/) - Touhou Games
+* [MoriyaShrine](https://moriyashrine.org/) - Touhou Games / Signup Required
 * [Kahvibreak](https://bluemaxima.org/kahvibreak/) / [Discord](https://discord.gg/8TgbHAG) or [J2ME Fans](https://discord.gg/DNPXUjbtx) (discord) - Java 2 Micro (J2ME) Games 
 * [Cemetech](https://cemetech.net/) - Calculator Games
 * [UnorthodoxFun](https://github.com/rarelygoeshere/UnorthodoxFun) - Games on Unorthodox Platforms
@@ -111,6 +111,7 @@
 * [VRCArena](https://www.vrcarena.com/) - Resources for Social VR Games / [Discord](https://discord.gg/UVs9V58)
 * [UEVR](https://uevr.io/) - Convert Unreal Engine Games to VR
 * [ALVR](https://github.com/alvr-org/ALVR) - Stream VR Games from PC to Headset
+* [SlimeVR](https://docs.slimevr.dev/) - DIY VR Full-Body Tracking System / Guides / [Discord](https://discord.gg/SlimeVR) / [GitHub](https://github.com/SlimeVR)
 
 ***
 
@@ -563,6 +564,7 @@
 * [Three Letters Game](https://threelettersgame.com/) - Daily Word Game
 * [JKLM.FUN](https://jklm.fun/) - Multiplayer Word Games
 * [eWordChallenge](https://www.ewordchallenge.net/) - Boggle Online
+* [⁠Word Salad](https://wordsalad.online/) - Daily Word Puzzle
 * [Squaredle](https://squaredle.app/) - Daily Word Puzzle / [Discord](https://discord.com/invite/aredl)
 * [⁠Glyph](https://glyph.today/) - Daily Word Puzzle
 * [⁠OneLook Games](https://onelook.com/games) - Word Games
@@ -575,6 +577,7 @@
 * [Word500](https://word500.com/) - Wordle + Mastermind
 * [Wordly](https://wordly.org/) - Wordle Clone
 * [Octordle](https://www.britannica.com/games/octordle/) - Eight Word Wordle
+* [⁠Crosswordle](https://crosswordle.com/) - Crossword-Style Wordle 
 * [Sqword](https://www.sqword.com/) - Deck-Based Wordle
 * [Alphabeticle](https://alphabeticle.xyz/) - Alphabetical Wordle
 * [WordMaze](https://wordmaze.click/) - Maze Style Wordle
@@ -749,7 +752,7 @@
 * [⁠Play Games](https://www.play-games.com/) - Browser Game Aggregator
 * [GamePix](https://www.gamepix.com/) - Browser Game Aggregator
 * [⁠Gameflare](https://www.gameflare.com/) - Browser Game Aggregator
-* [Friv](https://www.friv.com/) - Browser Game Aggregator
+* [Friv](https://www.friv.com/) - Browser Game Aggregator / [Old Site](https://www.friv.com/old/)
 * [⁠GamePuma](https://gamepuma.com/) - Browser Game Aggregator
 * [RoundGames](https://www.roundgames.com/) - Browser Game Aggregator
 * [⁠Agame](https://www.agame.com/) - Browser Game Aggregator
@@ -831,6 +834,7 @@
 * [mope.io](https://mope.io/) - Become the Biggest Animal / [Discord](https://discord.com/invite/nQAVB9c)
 * [TagPro](https://koalabeast.com/) - Multiplayer Capture the Flag / [Discord](https://discord.com/invite/hhW3MDzrt3)
 * [Golf Party](https://golfparty.io/) - Multiplayer Mini Golf Game
+* [Billiards Pool Game](https://billiards.tailuge.workers.dev/) - Multiplayer 3D Billiards & Pool / [GitHub](https://github.com/tailuge/billiards)
 * [Bloob.io](https://bloob.io/) - Multiple Games
 * [Yucata](https://www.yucata.de/en/) - Multiple Games
 * [Foony](https://foony.com/) - Multiple Games
