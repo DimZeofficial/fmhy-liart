@@ -37,7 +37,7 @@
 ***
 
 * ↪️ **[Chat Clients / Discord Alts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_chat_tools)**
-* ⭐ **[embeddr.top](https://embeddr.top/)**, [⁠Discord Embed Fixer](https://fixembed.site/), [npf.is](https://discord.nfp.is/) or [stolen.shoes](https://stolen.shoes/) - Discord Video Embedders
+* ⭐ **[⁠Discord Embed Fixer](https://fixembed.site/)**, [npf.is](https://discord.nfp.is/) or [stolen.shoes](https://stolen.shoes/) - Discord Video Embedders
 * ⭐ **[embedez](https://embedez.com/)** / [X](https://x.com/embedez) / [Discord](https://discord.gg/FmW9c8gtCp) or [FxEmbed](https://github.com/FxEmbed/FxEmbed) - Social Link Embedders
 * ⭐ **[Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin)** or [Discord Adblock](https://codeberg.org/ridge/Discord-AdBlock) - Hide Nitro / Boost Ads
 * ⭐ **[OpenAsar](https://openasar.dev/)** - Better Performance with Improved `app.asar` / [Discord](https://discord.gg/YDMptE8u2b) / [GitHub](https://github.com/GooseMod/OpenAsar) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/openasar.md)
@@ -409,7 +409,7 @@
 
 * 🌐 **[YT-DL GUI Index](https://www.reddit.com/r/youtubedl/wiki/info-guis)** - List of YouTube Downloader GUIs
 * ↪️ **[Multi-Site Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)** 
-* ⭐ **[Parabolic](https://github.com/NickvisionApps/Parabolic)**, [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer), [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface) or [Vividl](https://github.com/Bluegrams/Vividl) or [Tartube](https://tartube.sourceforge.io/) - YT-DLP GUIs
+* ⭐ **[Parabolic](https://github.com/NickvisionApps/Parabolic)**, [Tartube](https://tartube.sourceforge.io/) / [GitHub](https://github.com/axcore/tartube/), [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer), [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface) or [Vividl](https://github.com/Bluegrams/Vividl) - YT-DLP GUIs
 * ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - YouTube Downloader App / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/jdownloader-warning.md)
 * ⭐ **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** / [Commands](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) / [Discord](https://discord.gg/H5MNcFW63r) or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube CLIs
 * ⭐ **[YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)** - YouTube Downloader App

@@ -270,7 +270,7 @@
 * 🌐 **[Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources)**, [OpenRouter](https://openrouter.ai/models?max_price=0) or [API Together](https://api.together.xyz/playground) - LLM / AI API Indexes
 * 🌐 **[AI Price Compare](https://countless.dev/)** or **[PricePerToken](https://pricepertoken.com/)** - AI / LLM API Price Comparisons
 * ⭐ **[hoppscotch](https://hoppscotch.io/)**, [Firecamp](https://firecamp.dev/) or [Strapi](https://strapi.io/) - API Builders
-* ⭐ **[Shizuku](https://shizuku.rikka.app/)** / [Tools](https://github.com/legendsayantan/ShizuTools) / [GitHub](https://github.com/RikkaApps/Shizuku), **[Shizuku Fork](https://github.com/thedjchi/Shizuku)** or [Dhizuku](https://github.com/iamr0s/Dhizuku) - Let Apps Use System API (Android)
+* ⭐ **[Shizuku Fork](https://github.com/thedjchi/Shizuku)**, [Shizuku](https://shizuku.rikka.app/) / [Tools](https://github.com/legendsayantan/ShizuTools) / [GitHub](https://github.com/RikkaApps/Shizuku) or [Dhizuku](https://github.com/iamr0s/Dhizuku) - Let Apps Use System API (Android)
 * [⁠CoorenLabs](https://coorenlabs.com/) / [Discord](https://discord.gg/r5tfDZmADV) / [GitHub](https://github.com/coorenlabs/cooren) or [Consumet](https://docs.consumet.org/list-of-providers) - Piracy Site Metadata APIs / Scraping
 * [Wyzie Subs](https://sub.wyzie.ru/) - Subtitle Scraping API / [NPM Package](https://www.npmjs.com/package/wyzie-lib) / [Docs](https://docs.wyzie.ru/)
 * [HTTPie](https://httpie.io/) - Test REST, GraphQL, and HTTP APIs
@@ -521,10 +521,11 @@
 
 ***
 
+* ↪️ **[AI Agents](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_agents)**
 * ⭐ **[OpenCode](https://opencode.ai/)** - Coding AI / GPT-5 nano / Minimax-M2.5 / [Resources](https://github.com/awesome-opencode/awesome-opencode) / [Discord](https://discord.com/invite/opencode) / [GitHub](https://github.com/anomalyco/opencode)
 * ⭐ **[Aider](https://aider.chat/)** - Terminal Coding AI / [Discord](https://discord.com/invite/Y7X7bhMQFV) / [GitHub](https://github.com/Aider-AI/aider)
 * [Windsurf](https://www.windsurf.com/) - Agentic IDE With Tab Completion / [Subreddit](https://www.reddit.com/r/windsurf/) / [Discord](https://discord.com/invite/3XFf78nAx5)
-* [Cline](https://cline.bot/) / [Discord](https://discord.gg/cline) / [GitHub](https://github.com/cline/cline) or [⁠Zoo Code] / [GitHub](https://github.com/Zoo-Code-Org/Zoo-Code/) / [Reddit](https://www.reddit.com/r/ZooCode/) - Autonomous VS Code Agents
+* [Cline](https://cline.bot/) / [Discord](https://discord.gg/cline) / [GitHub](https://github.com/cline/cline) or [⁠Zoo Code](https://github.com/Zoo-Code-Org/Zoo-Code/) / [Subreddit](https://www.reddit.com/r/ZooCode/) - Autonomous VS Code Agents
 * [OpenHands](https://www.all-hands.dev/) - Coding AI / [GitHub](https://github.com/All-Hands-AI/OpenHands)
 * [Continue](https://continue.dev/) - Coding AI / [Discord](https://discord.com/invite/EfJEfdFnDQ) / [GitHub](https://github.com/continuedev/continue)
 * [Cursor](https://rentry.co/FMHYB64#cursor) - Coding AI
@@ -765,7 +766,7 @@
 * [Directory Lister](https://directorylister.com/) - Web-Based Directory Listing
 * [BawkBox](https://bawkbox.com/) - Website Widgets
 * [The SSO Wall of Shame](https://sso.tax/) - Vendors without Built-in SSO
-* [Remarkbox](https://www.remarkbox.com/) or [HTML Comment Box](https://www.htmlcommentbox.com/) - Site Comment Systems
+* [Disfora](https://disfora.com/), [Remarkbox](https://www.remarkbox.com/) or [HTML Comment Box](https://www.htmlcommentbox.com/) - Site Comment Systems
 * [Can I Email?](https://www.caniemail.com/) - Email Functionality Check
 * [Typebot](https://typebot.io/) - Embedded Chat App
 * [uMap](https://umap-project.org/) - Custom Embeddable Maps for Websites / [GitHub](https://github.com/umap-project/umap/)

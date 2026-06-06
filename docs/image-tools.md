@@ -135,7 +135,7 @@
 ## ▷ Painting / Drawing
 
 * 🌐 **[Digital Art Brushes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_brushes)** - Download Brushes
-* ⭐ **[Krita](https://krita.org/en/)** - Painting App / Windows, Mac, Linux / [AI Generation](https://github.com/Acly/krita-ai-diffusion/) / [Docs](https://docs.krita.org/en/) / [GitHub](https://github.com/KDE/krita)
+* ⭐ **[Krita](https://krita.org/en/)** - Painting App / Windows, Mac, Linux, Android / [AI Generation](https://github.com/Acly/krita-ai-diffusion/) / [Docs](https://docs.krita.org/en/) / [GitHub](https://github.com/KDE/krita)
 * ⭐ **[miniPaint](https://viliusle.github.io/miniPaint/)** - Browser Painting / Web / [GitHub](https://github.com/viliusle/miniPaint)
 * ⭐ **[Pinta](https://www.pinta-project.com/)** - Painting App / Windows, Mac, Linux / [GitHub](https://github.com/PintaProject/Pinta)
 * [Magma](https://magma.com/), [⁠MagicalDraw](https://draw.kuku.lu/), [DrawPile](https://drawpile.net/) or [malmal](https://malmal.io/) - Collaborative Drawing
@@ -335,6 +335,7 @@
 
 ## ▷ Free Assets
 
+* 🌐 **[Free Design Assets](https://github.com/noahelhadedy/400-free-design-resources)** - Design Asset Site Index
 * [Gumroad](https://gumroad.com/) / Enter $0 / Some NSFW
 * [Freeject](https://www.freeject.net/)
 * [⁠Salvaged](https://salvaged.nu/)
@@ -562,7 +563,7 @@
 * [Recursivity](https://gregtatum.com/poems/recursive/5/) - 3D Tree Creator
 * [ModelViewer](https://modelviewer.dev/), [3DViewer](https://3dviewer.net/) or [F3D](https://f3d.app/) - 3D Model Viewers
 * [⁠BumpMesh](https://bumpmesh.com/) - 3D Model Texture Editor 
-* [Armorpaint](https://armorpaint.org/) - 3D Painting
+* [Armorpaint](https://armorpaint.org/) - 3D Painting / [GitHub](https://github.com/armory3d/armorpaint)
 * [SculptGL](https://stephaneginier.com/sculptgl/) - 3D Sculpting
 * [MagicaVoxel](https://ephtracy.github.io/) or [Goxel](https://goxel.xyz/) - Voxel Art Editor / Interactive Path Tracing Renderer
 
@@ -645,7 +646,7 @@
 ## ▷ Image Compressors
 
 * ⭐ **[Caesium](https://saerasoft.com/caesium/)** - Compression Software / [Web App](https://caesium.app/) / [CLI](https://github.com/Lymphatus/caesium-clt) / [GitHub](https://github.com/Lymphatus/caesium-image-compressor)
-* ⭐ **[Squoosh](https://squoosh.app/)** - Compressor / Converter / [GitHub](https://github.com/GoogleChromeLabs/squoosh)
+* ⭐ **[Squoosh](https://squoosh.app/)** - Compressor / Converter
 * ⭐ **[Seopix](https://www.seopix.io/)** - Batch Compressor / Editor
 * [optimize.photos](https://optimize.photos/) - Batch Compressor
 * [CompressImage](https://compressimage.io/) - Batch Compressor
@@ -662,7 +663,7 @@
 
 ## ▷ Image Optimization
 
-* ⭐ **[ImageMagick](https://imagemagick.org/index.php)** - Image Optimization / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php)
+* ⭐ **[ImageMagick](https://imagemagick.org/index.php)** - Image Optimization / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php) / [GitHub](https://github.com/imagemagick/imagemagick)
 * [RIOT](https://riot-optimizer.com/) - Image Optimization
 * [YOGA](https://yoga.flozz.org/) - Image Optimization
 * [ImageFoo](https://imagefoo.com/) - Image Optimization
@@ -910,7 +911,7 @@
 
 * 🌐 **[Photo OSINT](https://start.me/p/0PgzqO/photo-osint)** - Image OSINT Resources
 * ↪️ **[File Info / Metadata](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_file_info_.2F_metadata)**
-* ⭐ **[Fawkes](http://sandlab.cs.uchicago.edu/fawkes/)** - Facial Cloaking
+* ⭐ **[Fawkes](http://sandlab.cs.uchicago.edu/fawkes/)** - Facial Cloaking / [GitHub](https://github.com/Shawn-Shan/fawkes)
 * ⭐ **[FotoForensics](https://www.fotoforensics.com/)**, [Sherloq](https://github.com/GuidoBartoli/sherloq) or [Forensically](https://29a.ch/photo-forensics/) - Photo Forensics Tools
 * [ViewEXIF](https://www.imgonline.com.ua/eng/exif-info.php), [Jimpl](https://jimpl.com/), [ExifData](https://exifdata.com/), [OnlineEXIFViewer](https://onlineexifviewer.com/), [ExifLooter](https://github.com/aydinnyunus/exifLooter) or [CameraSummary](https://camerasummary.com/) - EXIF / Metadata Viewers
 * [exiftool](https://exiftool.org/), [2](https://github.com/FrankBijnen/ExifToolGui/), [EXIFRemove](https://www.exifremove.com/), [scrambled-exif](https://gitlab.com/juanitobananas/scrambled-exif), [MetaEditor](https://metaeditor.picvario.com/), [Metadata-Remover](https://github.com/Anish-M-code/Metadata-Remover), [adarsus](https://www.adarsus.com/en/remove-metadata-online-document-image-video/) or [VerExif](https://www.verexif.com/en/) - Remove Meta / EXIF Data

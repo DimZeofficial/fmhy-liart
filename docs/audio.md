@@ -36,7 +36,7 @@
 * [Spotify](https://open.spotify.com/) - Web Player / [Lyrics](https://github.com/mantou132/Spotify-Lyrics) / [Lyrics Script](https://greasyfork.org/en/scripts/377439)
 * [Deezer](https://www.deezer.com/) - Browser Music / Requires Sign-Up
 * [Audiomack](https://audiomack.com/) - Browser Music
-* [Pandora](https://www.pandora.com/) - Browser Music
+* [Pandora](https://www.pandora.com/) - Browser Music / US Only
 * [Jango](https://jango.com/) - Browser Music
 * [SoundClick](https://www.soundclick.com/default.cfm) - Browser Music
 * [BeatBoss](https://beatboss-web.thevolecitor.qzz.io/) - Browser Music / Plugin-Based / [GitHub](https://github.com/TheVolecitor/BeatBoss)
@@ -465,6 +465,7 @@
 * [SoundClick](https://www.soundclick.com/default.cfm) - MP3
 * [z3.fm](https://z3.fm/) - MP3
 * [nodata](https://nodata.tv/) - MP3
+* [Discografias Completas](https://www.discografiascompletas.com/) - MP3 / [Telegram](https://t.me/+wdUhO_yV_A5lM2E5)
 * [LEAKED](https://leaked.cx/) - MP3
 * [Tancpol](https://tancpol.net/) - MP3
 * [New Album Releases](https://newalbumreleases.net/) - MP3
@@ -945,7 +946,7 @@
 * ⭐ **[OpenMPT](https://openmpt.org/)** / [Source Code](https://source.openmpt.org/) / [GitHub](https://github.com/OpenMPT/openmpt/), [Schism Tracker](https://schismtracker.org/) / [GitHub](https://github.com/schismtracker/schismtracker), [Furnace](https://tildearrow.org/furnace/) / [Discord](https://discord.gg/QhA26dXD23) / [GitHub](https://github.com/tildearrow/furnace), [16-Bits](https://16-bits.org/) / [GitHub](https://github.com/8bitbubsy?tab=repositories) or [MilkyTracker](https://milkytracker.org/) / [GitHub](https://github.com/milkytracker/MilkyTracker) - Music Trackers
 * [Team V.R releases](https://rentry.co/FMHYB64#team-vr), [G-MEH](https://g-meh.com/) / [Discord](https://discord.com/invite/g-meh) or [AudioZ](https://audioz.download/) / [Forum](https://audiosex.pro/) - Audio Editor Indexes
 * [Ossia](https://ossia.io/) - Intermedia Sequencer / [GitHub](https://github.com/ossia/score)
-* [Mixxx](https://mixxx.org/), [VirtualDJ](https://www.virtualdj.com/) or [Serato](https://serato.com/) - DJ Software
+* [Mixxx](https://mixxx.org/) / [GitHub](https://github.com/mixxxdj/mixxx), [VirtualDJ](https://www.virtualdj.com/) or [Serato](https://serato.com/) - DJ Software
 * [Moises](https://moises.ai/) - Live Music Mixer
 * [plugdata](https://plugdata.org/) - Visual Audio Editor / [Discord](https://discord.com/invite/eT2RxdF9Nq)
 * [Element](https://kushview.net/element/) or [Bespoke](https://www.bespokesynth.com/) - Modular Audio Environments / [Discord](https://discord.com/invite/RVk3RVJ)
@@ -964,7 +965,7 @@
 
 ## ▷ Browser Editors / Synths
 
-* ⭐ **[Audioalter](https://audioalter.com/)**, **[WavaCity](https://wavacity.com/)**, [Bosca Ceoil](https://humnom.net/apps/boscaceoil/), [AudioMass](https://github.com/pkalogiros/audiomass), [editor.audio](https://editor.audio/), [TwistedWave](https://twistedwave.com/online) or [xAudioPro](https://www.xaudiopro.com/en/) - Online Editors
+* ⭐ **[Audioalter](https://audioalter.com/)**, **[WavaCity](https://wavacity.com/)**, [⁠Riffle](https://www.riffle.studio/), [Bosca Ceoil](https://humnom.net/apps/boscaceoil/), [AudioMass](https://github.com/pkalogiros/audiomass), [editor.audio](https://editor.audio/), [TwistedWave](https://twistedwave.com/online) or [xAudioPro](https://www.xaudiopro.com/en/) - Online Editors
 * ⭐ **[BandLab](https://www.bandlab.com/)** - Digital Audio Workstation
 * ⭐ **[Drumhaus](https://www.drumha.us/)**, [iO-808](https://io808.com/), [Sequencer64](https://www.sequencer64.com/), [Drummy](https://drummy.io/), [DrumBit](https://drumbit.app/), [Roland50.studio](https://roland50.studio/), [Acid Machine 2](https://errozero.co.uk/acid-machine/), [orDrumbox](https://www.ordrumbox.com/) or [Hydrogen](http://hydrogen-music.org/) - Virtual Drum Machines
 * [UltraBox](https://ultraabox.github.io/), [AbyssBox](https://choptop84.github.io/abyssbox-app/), [JummBox](https://jummb.us/) / [GitHub](https://github.com/jummbus/jummbox), [BeepBox](https://www.beepbox.co/) or [GoldBox](https://aurysystem.github.io/goldbox/) - Online Sequencer / BeepBox Forks
